@@ -10,7 +10,7 @@ export default function Navbar() {
             <img src={reactlogo}  alt=""  className='nav--icon'/>
             <h3 className='nav--logo-text'>React Fact</h3>
 
-            <h4 className='nav--title'>My Project</h4>
+            <h4 className='nav--title'>Parsa Nejatpoor</h4>
         </nav>
     )
 }
