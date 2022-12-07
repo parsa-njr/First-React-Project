@@ -1,10 +1,9 @@
 import React from 'react';
 // import  ReactDOM  from 'react-dom';
 
-function Main() {
+export default function Main() {
     return (
-       
+       <h1>worwpeorfg</h1>
     )
 }
 
-export default Main
